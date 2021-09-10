@@ -19,7 +19,6 @@
       "repeatable": false,
       "component": "page.button"
     },
-    
     "image": {
       "model": "file",
       "via": "related",
