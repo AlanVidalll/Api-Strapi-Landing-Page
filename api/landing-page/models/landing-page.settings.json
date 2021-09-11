@@ -26,6 +26,53 @@
       "type": "component",
       "repeatable": false,
       "component": "page.header"
+    },
+    "sectionAboutProject": {
+      "type": "component",
+      "repeatable": false,
+      "component": "page.section-about-project"
+    },
+    "sectiontech": {
+      "type": "component",
+      "repeatable": false,
+      "component": "page.sectiontech"
+    },
+    "sectionConcepts": {
+      "type": "component",
+      "repeatable": false,
+      "component": "page.section-concepts"
+    },
+    "SectionModels": {
+      "type": "component",
+      "repeatable": false,
+      "component": "page.section-models",
+      "required": true
+    },
+    "sectionAgenda": {
+      "type": "component",
+      "repeatable": false,
+      "component": "page.section-agenda"
+    },
+    "pricingBox": {
+      "type": "component",
+      "repeatable": false,
+      "component": "page.pricing-box"
+    },
+    "sectionAboutUs": {
+      "type": "component",
+      "repeatable": false,
+      "component": "page.section-about-us",
+      "required": true
+    },
+    "sectionReviews": {
+      "type": "component",
+      "repeatable": false,
+      "component": "page.section-reviews"
+    },
+    "sectionFaq": {
+      "type": "component",
+      "repeatable": false,
+      "component": "page.section-faq"
     }
   }
 }

@@ -1,0 +1,26 @@
+{
+  "collectionName": "components_page_ocial_links",
+  "info": {
+    "name": "ocialLinks",
+    "icon": "network-wired"
+  },
+  "options": {},
+  "attributes": {
+    "title": {
+      "type": "enumeration",
+      "enum": [
+        "Github",
+        "Twitter",
+        "Dribbble",
+        "Linkedln",
+        "Facebook"
+      ],
+      "default": "Twitter",
+      "required": true
+    },
+    "url": {
+      "type": "string",
+      "required": true
+    }
+  }
+}
